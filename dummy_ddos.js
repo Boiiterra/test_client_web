@@ -53,7 +53,7 @@ function NewButton(btn_id_name, btn_function, btn_text, btn_description, url, ur
 }
 
 function LoadButtons() {
-    NewButton("btn1", Btn1, "Check JS code.", "Here are some responses fro clicking me:", "", "")
+    NewButton("btn1", Btn1, "Check JS code.", "Here are some responses for clicking me:", "", "")
 }
 
 function Reset() {
